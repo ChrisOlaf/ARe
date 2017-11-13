@@ -11,6 +11,8 @@ import java.util.GregorianCalendar;
 
 public class Tanaan {
 
+    // onko tässä ollut nyt mitään järkeä?
+
     public static void main(String[] args) {
         Date tanaan = new Date();
         Calendar tanaan2 = Calendar.getInstance();
